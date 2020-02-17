@@ -1,4 +1,4 @@
-package jc01_2020.zaretski.lesson08.factory.car;
+package jc01_2020.lesson08.examples.scope.car;
 
 public class Car {
     protected static int protectedField;

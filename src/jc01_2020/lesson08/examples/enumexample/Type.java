@@ -1,4 +1,4 @@
-package jc01_2020.zaretski.lesson08.enumexample;
+package jc01_2020.lesson08.examples.enumexample;
 
 public enum Type {
     INT(true),

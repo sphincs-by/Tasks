@@ -1,4 +1,4 @@
-package jc01_2020.zaretski.lesson08.generics;
+package jc01_2020.lesson08.examples.generics;
 
 public class Application {
 

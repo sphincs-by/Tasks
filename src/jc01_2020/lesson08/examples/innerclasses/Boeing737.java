@@ -1,4 +1,4 @@
-package jc01_2020.zaretski.lesson08.innerclasses;
+package jc01_2020.lesson08.examples.innerclasses;
 
 public class Boeing737 {
 
@@ -16,7 +16,6 @@ public class Boeing737 {
     public static class Drawing {
 
         public static int getMaxPassengersCount() {
-
             return maxPassengersCount;
         }
     }

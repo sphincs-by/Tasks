@@ -1,4 +1,4 @@
-package jc01_2020.zaretski.lesson08.innerclasses;
+package jc01_2020.lesson08.examples.innerclasses;
 
 public class Bicycle {
 
