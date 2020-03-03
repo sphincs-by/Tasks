@@ -1,4 +1,4 @@
-package jc01_2020.zaretski.lesson06.task02;
+package jc01_2020.zaretski.lesson06.task02.variant01;
 
 public class Main {
     public static void main(String[] args) {

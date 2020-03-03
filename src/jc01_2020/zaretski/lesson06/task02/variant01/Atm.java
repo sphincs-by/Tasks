@@ -1,4 +1,4 @@
-package jc01_2020.zaretski.lesson06.task02;
+package jc01_2020.zaretski.lesson06.task02.variant01;
 
 import java.util.Arrays;
 
@@ -29,10 +29,6 @@ public class Atm {
     }
 
     public boolean withdrawal(int amount) {
-        if (amount <=  10 || amount == 30 || amount % 10 != 0) {
-            System.out.println("Недопустимая сумма");
-            return false;
-        }
 
         int billCount = 3;
         int[] minCountOfBills = new int[amount + 1];
